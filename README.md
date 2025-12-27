@@ -2,8 +2,6 @@
 
 A comprehensive machine learning project that predicts customer churn and provides actionable business insights for retention strategies in the telecom industry.
 
-![Churn Dashboard](churn_analysis_dashboard.png)
-
 ---
 
 ## Project Overview
