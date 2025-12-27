@@ -1,5 +1,7 @@
 # Customer Churn Prediction & Retention Strategy
 
+**[Live Demo](https://customer-churn-prediction-xgzukifjn9jt6zpdcowk9t.streamlit.app)** | **[View Code](https://github.com/EFoster13/customer-churn-prediction)**
+
 A comprehensive machine learning project that predicts customer churn and provides actionable business insights for retention strategies in the telecom industry.
 
 ---
